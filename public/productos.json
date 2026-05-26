@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Lenovo",
+    "precio": 1200,
+    "stock": 5,
+    "descripcion": "Notebook ideal para trabajo y estudio",
+    "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Logitech",
+    "precio": 45,
+    "stock": 10,
+    "descripcion": "Mouse inalámbrico ergonómico",
+    "imagen": "https://images.unsplash.com/photo-1527814050087-3793815479db"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Redragon",
+    "precio": 80,
+    "stock": 7,
+    "descripcion": "Teclado mecánico gamer",
+    "imagen": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae"
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor Samsung",
+    "precio": 300,
+    "stock": 4,
+    "descripcion": "Monitor Full HD 24 pulgadas",
+    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf"
+  },
+  {
+    "id": 5,
+    "nombre": "Auriculares HyperX",
+    "precio": 95,
+    "stock": 6,
+    "descripcion": "Auriculares gamer con micrófono",
+    "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+  }
+]

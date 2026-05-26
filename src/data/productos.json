@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Lenovo",
+    "precio": 1200,
+    "stock": 8,
+    "categoria": "notebooks",
+    "descripcion": "Notebook Lenovo IdeaPad 15 pulgadas",
+    "imagen": "https://placehold.co/300x200"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Logitech",
+    "precio": 45,
+    "stock": 20,
+    "categoria": "perifericos",
+    "descripcion": "Mouse inalámbrico Logitech",
+    "imagen": "https://placehold.co/300x200"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Redragon",
+    "precio": 75,
+    "stock": 12,
+    "categoria": "perifericos",
+    "descripcion": "Teclado mecánico RGB",
+    "imagen": "https://placehold.co/300x200"
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor Samsung",
+    "precio": 320,
+    "stock": 5,
+    "categoria": "monitores",
+    "descripcion": "Monitor Full HD 24 pulgadas",
+    "imagen": "https://placehold.co/300x200"
+  },
+  {
+    "id": 5,
+    "nombre": "Auriculares Sony",
+    "precio": 180,
+    "stock": 10,
+    "categoria": "audio",
+    "descripcion": "Auriculares inalámbricos Sony",
+    "imagen": "https://placehold.co/300x200"
+  }
+]
